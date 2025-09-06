@@ -1,3 +1,3 @@
-resource aws_s3_bucker my_bucket{
-	bucket = "my-first-s3"
+resource aws_s3_bucket my_bucket{
+	bucket = "my-first-s3-namnab"
 }
